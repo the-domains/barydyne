@@ -1,0 +1,28 @@
+name: barydyne
+favicon: null
+layout_spectrum: 0.8895677321124822
+typography_spectrum: 0.8111472914461046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.13440852658823133
+  lightness: 0.4445957588031888
+  saturation: 0.0909040835686028
+  rhythmicContrast: 0.9881377071142197
+purpose: []
